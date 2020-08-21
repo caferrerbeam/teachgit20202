@@ -1,10 +1,10 @@
+
 camilo
 cesar
 
 El himno nacional de la República de Colombia fue escrito 
 por el ex-presidente Rafael Núñez, y musicalizado por Oreste 
 Síndici. La estructura consta de un coro y once estrofas en total.
-
 
 
 
@@ -35,6 +35,16 @@ la abnegación es mucha,
 y escombros de la muerte
 desprecia su virtud.
 
+
+De Boyacá en los campos
+el genio de la gloria
+con cada espiga un héroe
+invicto coronó.
+Soldados sin coraza
+ganaron la victoria;
+su varonil aliento
+de escudo les sirvió.
+
 VI
 
 Bol�var cruza el Ande
@@ -45,7 +55,6 @@ Centauros indomables
 descienden a los Llanos,
 y empieza a presentirse
 de la epopeya el fin.
-
 
 
 X
@@ -59,6 +68,7 @@ al gran clamor no acalla;
 si el sol alumbra a todos,
 justicia es libertad.
 
+
 XI
 
 Del hombre los derechos
@@ -69,6 +79,5 @@ Ricaurte en San Mateo
 en átomos volando,
 "Deber antes que vida",
 con llamas escribió.
-
 
 
