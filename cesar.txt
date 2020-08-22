@@ -24,6 +24,7 @@ La humanidad entera,
 que entre cadenas gime,
 comprende las palabras
 del que murió en la cruz.
+<<<<<<< HEAD
 
 (2) estrofa 2 
 ¡Cesó la horrible noche!
@@ -89,6 +90,8 @@ al gran clamor no acalla;
 si el sol alumbra a todos,
 justicia es libertad.
 
+=======
+>>>>>>> 94fa957... Primera estrofa del himno de Colombia
 
 XI
 
