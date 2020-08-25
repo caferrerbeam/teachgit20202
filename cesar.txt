@@ -14,6 +14,8 @@ Síndici. La estructura consta de un coro y once estrofas en total.
 ¡En surcos de Dolores
 el bien germina ya!
 
+
+
 I
 
 ¡Cesó la horrible noche!
@@ -35,6 +37,17 @@ La humanidad entera,
 que entre cadenas gime,
 comprende las palabras
 del que murió en la cruz.
+
+
+III
+Del Orinoco el cauce
+se colma de despojos;
+de sangre y llanto un río
+se mira allí correr.
+En Bárbula no saben
+las almas ni los ojos,
+si admiración o espanto
+sentir o padecer.
 
 IV
 
@@ -90,6 +103,7 @@ que cubre losa fría,
 pero glorioso orgullo
 circunda su alba tez.
 
+
 X
 
 Mas no es completa gloria
@@ -121,6 +135,4 @@ Ricaurte en San Mateo
 en átomos volando,
 "Deber antes que vida",
 con llamas escribió.
-
-
 
